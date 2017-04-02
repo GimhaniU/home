@@ -12,7 +12,7 @@ Being interested in software developing, I was in search of a fine way to improv
 
 I knew about open-source development since I was really in love with those open-source products like android, firefox, linux and many more since they come to us with absolutely no any restrictions unlike many copyrighted products.
 
-However, I felt little nervous to start on direct contributions with such an organizations. So, I started a survey on available open-source projects for which I could start my contributions with. Google summer of Code archieve pages helped a lot in this process.
+However, I felt little nervous to start on direct contributions with such organizations. So, I started a survey on available open-source projects for which I could start my contributions with. Google summer of Code archieve pages helped a lot in this process.
 
 ## Found Sigmah !!
 
